@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>支付跳转</title>
+		<meta name="viewport" content="width=device-width">
+		<meta charset="utf-8">
+  </head>
+  <style>
+	div{
+	width:375px;
+	height:667px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	color:red;
+	}
+</style>
+	<script type="text/javascript">
+	var s = 5;
+	window.onload=function(){
+		setInterval(()=> {
+		if(s==0)window.location.href="cart.jsp";
+		else{s--;document.getElementById("sss").innerHTML=s;}
+			
+		}, 1000);
+	}
+	</script>
+  <body>
+	  <div>支付成功<span id="sss">5</span>秒后跳转</div>
+  </body>
+</html>
