@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weixin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gd/cn/message/PicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/PicList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/ReceiveMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/ReceiveMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/ScanCodeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/ScanCodeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/SendLocationInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/SendLocationInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/SendPicsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/SendPicsInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,29 +45,29 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Tomcat 服务器.未命名.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Javawork/Weixin/WebRoot/WEB-INF/lib",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "库",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat 服务器.未命名.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Javawork/Weixin/WebRoot/WEB-INF/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="gd.cn.message" />
@@ -258,6 +257,7 @@
       <workItem from="1731516402383" duration="240000" />
       <workItem from="1731516655533" duration="313000" />
       <workItem from="1731516983449" duration="776000" />
+      <workItem from="1731518359168" duration="772000" />
     </task>
     <servers />
   </component>
