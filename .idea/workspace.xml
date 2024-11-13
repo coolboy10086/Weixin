@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/DBTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/DBTools.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/BaiduTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/BaiduTools.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Weixin.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Weixin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/getCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/getCart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/register.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/register.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java222/DBTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java222/DBTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java222/MySerlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java222/MySerlet2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/BaiduTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/BaiduTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/Weixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/Weixin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/getCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/getCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/register.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731447235377</updated>
       <workItem from="1731447236481" duration="573000" />
-      <workItem from="1731447842310" duration="2677000" />
+      <workItem from="1731447842310" duration="3253000" />
     </task>
     <servers />
   </component>
