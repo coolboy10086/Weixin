@@ -5,45 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_2_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/DBTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/MyListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/MySerlet2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/SessionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/addCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/addProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/del.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/getProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/modityCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/pay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/BaiduTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/MyRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/SHA1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Weixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/getCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/register.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/gd/cn/message/PicList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/gd/cn/message/ReceiveMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/gd/cn/message/ScanCodeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/gd/cn/message/SendLocationInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/gd/cn/message/SendPicsInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weixin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/PicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/PicList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/ReceiveMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/ReceiveMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/ScanCodeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/ScanCodeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/SendLocationInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/SendLocationInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/SendPicsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/SendPicsInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,6 +69,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gd.cn.message" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="未命名" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -274,7 +257,7 @@
       <workItem from="1731447842310" duration="3874000" />
       <workItem from="1731516402383" duration="240000" />
       <workItem from="1731516655533" duration="313000" />
-      <workItem from="1731516983449" duration="526000" />
+      <workItem from="1731516983449" duration="776000" />
     </task>
     <servers />
   </component>
