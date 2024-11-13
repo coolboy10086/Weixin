@@ -175,7 +175,7 @@
     <div id="cart-icon">
     <a href="cart.jsp">
         <i class="fas fa-shopping-cart"></i>
-        <img src="./img/shopingcar.jpg" alt="" style="width: 20px;height: auto;">
+        <img src="../img/shopingcar.jpg" alt="" style="width: 20px;height: auto;">
         <span id="cnt" class="count">
             <%=session.getAttribute("cart")!=null?session.getAttribute("cart"):0 %>
         </span>

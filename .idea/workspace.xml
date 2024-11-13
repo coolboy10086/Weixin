@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Weixin:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Weixin_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/H5.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/H5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/Weixin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/Weixin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/addProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/addProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/jquery-3.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jquery-3.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/p.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/p.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/statused.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/statused.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weixin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/cn/message/PicList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gd/cn/message/PicList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +47,15 @@
     <setting file="file://$PROJECT_DIR$/src/cn/gd/gdgc/Weixin.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/cn/gd/gdgc/login.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -47,19 +71,23 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JavaScript 调试.Tomcat 10.1.26 JavaScript.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat 服务器.Tomcat 10.1.26.executor&quot;: &quot;Run&quot;,
     &quot;Tomcat 服务器.未命名.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Javawork/Weixin/WebRoot/WEB-INF/lib&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Javawork/Weixin/WebRoot/WEB-INF&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;问题&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -72,19 +100,29 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="gd.cn.message" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Javawork\Weixin\WebRoot\WEB-INF" />
+      <recent name="D:\Javawork\Weixin\WebRoot\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="未命名" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="Tomcat 10.1.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <file path="$PROJECT_DIR$">
+        <artifact name="Weixin:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/Weixin" />
           </settings>
-        </file>
+        </artifact>
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="baa38d37-4503-42dc-b54e-17b84db56716" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -156,6 +194,10 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="LaunchBrowser.Before.Run" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Weixin:war exploded" />
+        </option>
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -258,6 +300,10 @@
       <workItem from="1731516655533" duration="313000" />
       <workItem from="1731516983449" duration="776000" />
       <workItem from="1731518359168" duration="772000" />
+      <workItem from="1731519327735" duration="992000" />
+      <workItem from="1731520338140" duration="5120000" />
+      <workItem from="1731525492374" duration="23000" />
+      <workItem from="1731525523575" duration="294000" />
     </task>
     <servers />
   </component>
@@ -274,5 +320,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
