@@ -25,5 +25,6 @@
     <orderEntry type="library" name="commons-codec-1.10" level="project" />
     <orderEntry type="library" name="commons-io-2.15.0" level="project" />
     <orderEntry type="library" name="mysql-connector-j-8.1.0" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
   </component>
 </module>

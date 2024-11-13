@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weixin.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,9 @@
     <setting file="file://$PROJECT_DIR$/src/cn/gd/gdgc/MyRequest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/cn/gd/gdgc/login.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2olbh3woUW4OXYwf7csqCKQoKPI" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
@@ -40,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Javawork/Weixin/WebRoot/WEB-INF/lib/commons-codec-1.10.jar",
+    "last_opened_file_path": "D:/Javawork/Weixin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731447235377</updated>
       <workItem from="1731447236481" duration="573000" />
+      <workItem from="1731447842310" duration="1243000" />
     </task>
     <servers />
   </component>
