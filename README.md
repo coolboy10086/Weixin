@@ -1,57 +1,60 @@
 # Java_wx
- JAva&wx
+微信商城项目
+
 ## 项目结构
+```
 WEXIN/
 ├── src/
-│ ├── cn_rdi_odrc/ # 基础包
-│ │ └── SHA1/
-│ │ ├── SHA1.java # SHA1加密工具类
-│ │ ├── Test.java # 测试类
-│ │ └── Weixin.java # 微信相关工具类
-│ │
-│ ├── gd/cn/message/ # 消息处理模块
-│ │ ├── PicList.java # 图片列表处理
-│ │ ├── ReceiveMessage.java # 消息接收处理
-│ │ ├── ScanCodeInfo.java # 扫码信息处理
-│ │ ├── SendLocationInfo.java # 位置信息发送
-│ │ └── SendPicInfo.java # 图片信息发送
-│ │
-│ └── java222/ # 核心业务逻辑
-│ ├── addCart.java # 添加购物车处理
-│ ├── addProduct.java # 添加商品处理
-│ ├── Cart.java # 购物车实体类
-│ ├── Customer.java # 客户实体类
-│ ├── DBTools.java # 数据库工具类
-│ ├── del.java # 删除操作处理
-│ ├── getProduct.java # 获取商品信息
-│ ├── modifyCart.java # 修改购物车
-│ ├── MyListener.java # 监听器
-│ ├── MySerie12.java # 序列化处理
-│ ├── pay.java # 支付处理
-│ ├── Product.java # 商品实体类
-│ └── SessionListener.java # 会话监听器
+│   ├── cn_gd_gdgc/                # 基础包
+│   │   └── SHA1/
+│   │       ├── SHA1.java           # SHA1加密工具类
+│   │       ├── Test.java           # 测试类
+│   │       └── Weixin.java         # 微信相关工具类
+│   │
+│   ├── gd/cn/message/              # 消息处理模块
+│   │   ├── PicList.java           # 图片列表处理
+│   │   ├── ReceiveMessage.java    # 消息接收处理
+│   │   ├── ScanCodeInfo.java      # 扫码信息处理
+│   │   ├── SendLocationInfo.java  # 位置信息发送
+│   │   └── SendPicInfo.java       # 图片信息发送
+│   │
+│   └── java222/                    # 核心业务逻辑
+│       ├── addCart.java           # 添加购物车处理
+│       ├── addProduct.java        # 添加商品处理
+│       ├── Cart.java              # 购物车实体类
+│       ├── Customer.java          # 客户实体类
+│       ├── DBTools.java           # 数据库工具类
+│       ├── del.java               # 删除操作处理
+│       ├── getProduct.java        # 获取商品信息
+│       ├── modifyCart.java        # 修改购物车
+│       ├── MyListener.java        # 监听器
+│       ├── MySerie12.java         # 序列化处理
+│       ├── pay.java               # 支付处理
+│       ├── Product.java           # 商品实体类
+│       └── SessionListener.java    # 会话监听器
 │
-├── WebRoot/ # Web根目录
-│ ├── img/ # 图片资源目录
-│ │ └── shoppingcar.jpg # 购物车图片
-│ │
-│ ├── META-INF/ # 项目配置
-│ ├── WEB-INF/ # Web配置
-│ ├── addProduct.jsp # 添加商品页面
-│ ├── cart.jsp # 购物车页面
-│ ├── H5.html # H5页面
-│ ├── index.jsp # 首页
-│ ├── jquery-2.7.1.min.js # jQuery库
-│ ├── p.jsp # 商品页面
-│ ├── pay.html # 支付页面
-│ ├── statused.jsp # 状态页面
-│ └── Weixin.jsp # 微信相关页面
+├── WebRoot/                        # Web根目录
+│   ├── img/                       # 图片资源目录
+│   │   └── shoppingcar.jpg        # 购物车图片
+│   │
+│   ├── META-INF/                  # 项目配置
+│   ├── WEB-INF/                   # Web配置
+│   ├── addProduct.jsp             # 添加商品页面
+│   ├── cart.jsp                   # 购物车页面
+│   ├── H5.html                    # H5页面
+│   ├── index.jsp                  # 首页
+│   ├── jquery-2.7.1.min.js        # jQuery库
+│   ├── p.jsp                      # 商品页面
+│   ├── pay.html                   # 支付页面
+│   ├── statused.jsp              # 状态页面
+│   └── Weixin.jsp                # 微信相关页面
 │
-├── .classpath # 类路径配置
-├── .gitattributes # Git属性配置
-├── .project # 项目配置文件
-├── README.md # 项目说明文档
-└── Weixin.iml # IDEA项目配置文件
+├── .classpath                     # 类路径配置
+├── .gitattributes                # Git属性配置
+├── .project                      # 项目配置文件
+├── README.md                     # 项目说明文档
+└── Weixin.iml                    # IDEA项目配置文件
+```
 
 ## 项目功能
 # WEXIN 购物车系统 - 模块详解
