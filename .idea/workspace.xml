@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ecbb568-db53-4343-8813-8fef91570702" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weixin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/DBTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/Java222/DBTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/BaiduTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/BaiduTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Weixin.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/Weixin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/getCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/getCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/register.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/cn/gd/gdgc/register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java222/DBTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java222/DBTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java222/MySerlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java222/MySerlet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/BaiduTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/BaiduTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/Weixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/Weixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/getCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/getCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/gd/gdgc/register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/gd/gdgc/register.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +41,9 @@
   <component name="ProjectId" id="2olbh3woUW4OXYwf7csqCKQoKPI" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
@@ -47,7 +60,13 @@
     "project.structure.last.edited": "库",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -67,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731447235377</updated>
       <workItem from="1731447236481" duration="573000" />
-      <workItem from="1731447842310" duration="1243000" />
+      <workItem from="1731447842310" duration="2677000" />
     </task>
     <servers />
   </component>
