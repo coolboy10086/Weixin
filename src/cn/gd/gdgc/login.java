@@ -55,8 +55,8 @@ public class login extends HttpServlet {
 		String code = request.getParameter("code");
 		String url = "https://api.weixin.qq.com/sns/jscode2session?appid=APPID&secret=SECRET&js_code=JSCODE&grant_type=authorization_code";
 		// 替换 URL 中的 APPID、SECRET 和 JSCODE 为实际值
-		url = url.replace("APPID", "wx72a6df47c59befc7");
-		url = url.replace("SECRET", "99e9b5158a977428602f8cc577e28fe4");
+		url = url.replace("APPID", "APPID");
+		url = url.replace("SECRET", "SECRET");
 		url = url.replace("JSCODE", code);
 
 		// 向微信服务器发送请求并获取响应数据
