@@ -19,9 +19,9 @@ public class BaiduTools {
     // 访问令牌的创建时间
     private static long BaiduAccessToken_create_time = 0;
     // 百度AI平台的API密钥
-    private static final String API_KEY = "DO0cU2fWUBc0YnAGnYvmZTgn";
+    private static final String API_KEY = " APIKEY";
     // 百度AI平台的密钥
-    private static final String SECRET_KEY = "zj3Z8TVbymnoF629FI2UmCI1Izl1LQP5";
+    private static final String SECRET_KEY = "SECRET_KEY";
 
     /**
      * 获取百度AI平台的访问令牌
